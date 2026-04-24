@@ -1,3 +1,2 @@
 # cafe-Website
-This is my Cafe
-Author - Chethan
+This is my Cafe<br>Author - Chethan
